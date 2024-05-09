@@ -1,0 +1,64 @@
+ol ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+header ai{
+  font-size: 3em;
+  padding: 0,3em;
+}
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: skyblue;
+}
+header nav ul{
+  display: flex;
+  gap: 1.1em;
+}
+body{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family:sans-serif;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+sección-1 p p1 h2{
+  display:flex;
+  justify-content:center;
+}
+img{ display:flex;
+justify-content:center;
+align-item:center
+}
+Acerca-imagen{
+  margin:150px;
+  width:70%
+}
+sección-1{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.{
+  padding: 0;
+  margin: 0;
+  background-size: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+*{
+  padding:0;
+  margin: 0;
+  box-sizing:none;
+  list-style: none;
+}
+@media{ 
+  max-width:991px
+}
+.menu label{display:initial
